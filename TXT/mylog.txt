@@ -2,3 +2,6 @@
 # XCXC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 20 L00 Read class materials
+ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00 30 GitHub Pages related
