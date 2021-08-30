@@ -7,6 +7,6 @@ My personal repository for the Operating Systems 2021-2 course.
 
 ## Important Links
 * [Course site](https://os.vlsm.org/)
-* [Personal log](https://adnptrpw.github.io/os212/TXT/mylog.txt)
+* [My log](https://adnptrpw.github.io/os212/TXT/mylog.txt)
 
 
