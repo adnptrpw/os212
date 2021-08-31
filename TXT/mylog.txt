@@ -4,4 +4,8 @@
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 20 L00 Read class materials
 ZCZC W00 10 L01 SCELE/Discord related
-ZCZC W00 30 GitHub Pages related
+ZCZC W00 30 L04 GitHub Pages related
+ZCZC W00 05 L11 Assignments #01
+ZCZC W00 05 L12 Assignments #02
+ZCZC W00 15 L13 Assignments #03
+ZCZC W00 05 L14 Assignments #04
