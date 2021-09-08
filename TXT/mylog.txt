@@ -15,3 +15,11 @@ ZCZC W01 30 L00 Read class materials
 ZCZC W01 30 SCELE/Discord related
 ZCZC W01 100 L02 ZOOM Meetings related
 ZCZC W01 60 L11 Assignments #01
+ZCZC W01 60 L12 Assignments #02
+ZCZC W01 60 L14 Assignments #04
+ZCZC W01 60 L15 Assignments #05
+ZCZC W01 05 L08 AsDos: asking, etc
+ZCZC W01 30 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 180 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L70 Studying for other courses.
+ZCZC W01 300 L81 Listening: Radio, Music, etc.
