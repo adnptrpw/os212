@@ -22,3 +22,11 @@ This is a must-read blog. You will learn how to work with GNU Linux from zero to
 
 1. [(Blogs) Basics vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
 This blog helps me recap all of the important commands that I need for using vi. And all of the information is explicit enough, so it is easy to find specific information.
+
+
+## Week 02
+
+1. [(Video) C Programming Tutorial For Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+This YouTube video tutorial helps me learn C programming language from zero. The instructor explain it really well, so I think finishing this video tutorial can make you familiar enough with C programming language
+
+
