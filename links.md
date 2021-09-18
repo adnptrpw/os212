@@ -23,6 +23,11 @@ This is a must-read blog. You will learn how to work with GNU Linux from zero to
 1. [(Blogs) Basics vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
 This blog helps me recap all of the important commands that I need for using vi. And all of the information is explicit enough, so it is easy to find specific information.
 
+2. [(Video) Learn AWK is Essential for Linux User](https://www.youtube.com/watch?v=9YOZmI-zWok&t=1079s)<br>
+This helps me understand how to use AWK. The instructor explain it really well and also gives a good example, makes learning from this tutorial worth it.
+
+3. [(Video) Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
+I really love the illustration of each Regex he explains. The illustration makes it easy to digest and understand. Recommended for someone who want to learn Regex but need visualization about how thing happened. 
 
 ## Week 02
 
