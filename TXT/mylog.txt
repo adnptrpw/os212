@@ -29,3 +29,6 @@ ZCZC W01 10 L22 Quiz
 ZCZC W01 60 L13 Assignments #03
 ZCZC W01 60 L18 Assignments #08
 ZCZC W01 30 L06 References/Books/Documents/GSGS related
+ZCZC W02 60 L06 Referebces/Books/Dicuments/GSGS related
+ZCZC W02 30 L24 Bash, Regex, SED, AWK
+ZCZC W02 30 L32 YouTube: study, etc
