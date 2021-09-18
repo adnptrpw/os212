@@ -32,3 +32,12 @@ ZCZC W01 30 L06 References/Books/Documents/GSGS related
 ZCZC W02 60 L06 Referebces/Books/Dicuments/GSGS related
 ZCZC W02 30 L24 Bash, Regex, SED, AWK
 ZCZC W02 30 L32 YouTube: study, etc
+ZCZC W02 60 L11 Assignments #01
+ZCZC W02 60 L12 Assignments #02
+ZCZC W02 60 L13 Assignments #03
+ZCZC W02 10 L14 Assignments #04
+ZCZC W02 10 L15 Assignments #05
+ZCZC W02 10 L16 Assignments #06
+ZCZC W02 10 L17 Assignments #07
+ZCZC W02 10 L18 Assignments #08
+ZCZC W02 10 L19 Assignments #09
