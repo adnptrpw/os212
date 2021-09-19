@@ -32,6 +32,6 @@ I really love the illustration of each Regex he explains. The illustration makes
 ## Week 02
 
 1. [(Video) C Programming Tutorial For Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
-This YouTube video tutorial helps me learn C programming language from zero. The instructor explain it really well, so I think finishing this video tutorial can make you familiar enough with C programming language
+This YouTube video tutorial helps me learn C programming language from zero. The instructor explain it really well, so I think finishing this video tutorial can make you familiar enough with C programming language.
 
 
