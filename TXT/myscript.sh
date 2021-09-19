@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Copyright (C) 2021 adnptrpw
-
 # Code below is copied from https://github.com/cbkadal/os212/blob/master/TXT/myscript.sh
 # Credit to Mr. Rahmat M. Samik-Ibrahim
 
