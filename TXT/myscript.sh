@@ -7,8 +7,12 @@
 # =============== BEGIN COPIED CODE ===============
 
 # REV02 Sun 19 Sep 2021 15:44:11 WIB
-# REV00 Sun 12 Sep 2021 03:10:00 WIB
+# REV01 Sun 12 Sep 2021 03:10:00 WIB
 # START Mon 28 Sep 21:05:04 WIB 2020
+
+# ATTN:
+# You new to set "REC2" with your own Public-Key Identity!
+# Check it out with "gpg --list-key"
 
 REC2="adnptrpw@localhost"
 REC1="operatingsystems@vlsm.org"
