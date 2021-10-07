@@ -60,3 +60,13 @@ When Mr. Rahmat gave questions about malloc in the forum discussion, I got confu
 
 4. [(Article) Pointers in C Explained - They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)
 Well, honestly when I see the Week04 demos code, I got scared by pointers. Because it is easy to confused if we don't look at the code thoroughly. Moreover, it rarely used by programmers. But actually, it is just an address. This article break down every details of pointers.
+
+## Week 05
+1. [(Article) Paging](https://wiki.osdev.org/Paging)
+This article tells you about paging structure in operating system development. The article covers a lot of topics regarding Memory Paging.
+2. [(Article) Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+A complete explanation about virtual memory. I can say it is the summary of Chapter 10. I prefer to read from this article to understand about virtual memory rather than the Chapter 10 ppt  because I think it explains better.
+3. [(Article) Compare top and htop](https://codeahoy.com/compare/top-vs-htop)
+Besides top, there are a lot of other tools that also has a cool functionality, which is htop. It is a good article for additional reference of our material this week.
+4. [(Article) How Random Access Memory (RAM) affects performance](https://www.dell.com/support/kbdoc/en-sg/000129805/how-random-access-memory-ram-affects-performance)
+Along the way learning about OS, and especially in this week, I am thinking should I upgrade our RAM or not to upgrade the performance. Or using virtual memory is enough? And this article explains to me that we really need to have a computer that has many RAM in the future. (Hope I have enough money to purchase it :D)
