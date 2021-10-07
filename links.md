@@ -49,24 +49,24 @@ In our file, we have this thing called "File Permission". And to change what we 
 Within this OS course, we see a lot of this things like "/bin/" or "/sbin/" and many more things similar to it. And honestly, I don't really know what it is. With this article came from community, I now know the difference between them.
 
 ## Week 04
-1. [(Article) Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/)
+1. [(Article) Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/)<br>
 This article explains really well about the difference between big and little endian. It also tells you the reason why microprocessors use little endian while networking protocol uses big endian.
 
-2. [(Video) How to manage memory with malloc, calloc, realloc, and free in C](https://www.youtube.com/watch?v=lQP4X3odvHE)
+2. [(Video) How to manage memory with malloc, calloc, realloc, and free in C](https://www.youtube.com/watch?v=lQP4X3odvHE)<br>
 This video explains about memory management using malloc, calloc, realloc, and free method. It also explains with a sample code, so we can try to run the sample code by ourself
 
-3. [(Video) The Heap: what does malloc() do? - bin 0x14](https://www.youtube.com/watch?v=HPDBOhiKaD8)
+3. [(Video) The Heap: what does malloc() do? - bin 0x14](https://www.youtube.com/watch?v=HPDBOhiKaD8)<br>
 When Mr. Rahmat gave questions about malloc in the forum discussion, I got confused about what is this method exactly doing. And this video explains thoroughly about how malloc works and how it finds new memory locations.
 
-4. [(Article) Pointers in C Explained - They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)
+4. [(Article) Pointers in C Explained - They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
 Well, honestly when I see the Week04 demos code, I got scared by pointers. Because it is easy to confused if we don't look at the code thoroughly. Moreover, it rarely used by programmers. But actually, it is just an address. This article break down every details of pointers.
 
 ## Week 05
-1. [(Article) Paging](https://wiki.osdev.org/Paging)
+1. [(Article) Paging](https://wiki.osdev.org/Paging)<br>
 This article tells you about paging structure in operating system development. The article covers a lot of topics regarding Memory Paging.
-2. [(Article) Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+2. [(Article) Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 A complete explanation about virtual memory. I can say it is the summary of Chapter 10. I prefer to read from this article to understand about virtual memory rather than the Chapter 10 ppt  because I think it explains better.
-3. [(Article) Compare top and htop](https://codeahoy.com/compare/top-vs-htop)
+3. [(Article) Compare top and htop](https://codeahoy.com/compare/top-vs-htop)<br>
 Besides top, there are a lot of other tools that also has a cool functionality, which is htop. It is a good article for additional reference of our material this week.
-4. [(Article) How Random Access Memory (RAM) affects performance](https://www.dell.com/support/kbdoc/en-sg/000129805/how-random-access-memory-ram-affects-performance)
+4. [(Article) How Random Access Memory (RAM) affects performance](https://www.dell.com/support/kbdoc/en-sg/000129805/how-random-access-memory-ram-affects-performance)<br>
 Along the way learning about OS, and especially in this week, I am thinking should I upgrade our RAM or not to upgrade the performance. Or using virtual memory is enough? And this article explains to me that we really need to have a computer that has many RAM in the future. (Hope I have enough money to purchase it :D)
