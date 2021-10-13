@@ -70,3 +70,13 @@ A complete explanation about virtual memory. I can say it is the summary of Chap
 Besides top, there are a lot of other tools that also has a cool functionality, which is htop. It is a good article for additional reference of our material this week.
 4. [(Article) How Random Access Memory (RAM) affects performance](https://www.dell.com/support/kbdoc/en-sg/000129805/how-random-access-memory-ram-affects-performance)<br>
 Along the way learning about OS, and especially in this week, I am thinking should I upgrade our RAM or not to upgrade the performance. Or using virtual memory is enough? And this article explains to me that we really need to have a computer that has many RAM in the future. (Hope I have enough money to purchase it :D)
+
+## Week 06
+1. [(Video) Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)<br>
+The video explains linux processes in an edible amount of time. It also explains how init was called, how a process were created, and how we can suspend/terminate a process also pull the suspended process to the terminal again.
+2. [(Video) Understanding Linux Processes](youtube.com/playlist?list=PLtK75qxsQaMKLUENMaPlD_O2qS8ZBGjuy)<br>
+If you want to understand more about linux processes and have every detail of it be explained, then this YouTube playlist is right for you. It explains to you in a slow-paces, so if you a type of person who want to get everything quickly, I recommend you to play the video on 2.0x playback. (ssst! I even play it on 3.0x playback :D)
+3. [(Article) Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+It quites confusing to differentiate these two term. Thanks to this article, I have a clear understanding about those term. We can say, a process consist of threads. And that means thread is inside the process.
+4. [(Article) Multithreading vs Multiprocessing: What's the difference?](https://www.guru99.com/difference-between-multiprocessing-and-multithreading.html)<br>
+With this article, now I have a better understanding regarding another two terms that is pretty similar like in my links number 3. Multithreading is still inside a process and can run simultaneously, while multiprocessing has a bigger scope than multithreading.

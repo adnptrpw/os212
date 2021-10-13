@@ -84,3 +84,14 @@ ZCZC W05 30 L16 Assignments #06
 ZCZC W05 20 L17 Assignments #07
 ZCZC W05 10 L18 Assignments #08
 ZCZC W05 05 L19 Assignments #09
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 60 L06 References/Books/Documents/GSGS related
+ZCZC W06 20 L22 Quiz
+ZCZC W06 100 L32 YouTube: study, etc.
+ZCZC W06 60 L11 Assignments #01
+ZCZC W06 60 L12 Assignments #02
+ZCZC W06 60 L13 Assignments #03
+ZCZC W06 10 L15 Assignments #05
+ZCZC W06 30 L16 Assignments #06
+ZCZC W06 20 L17 Assignments #07
+ZCZC W06 10 L18 Assignments #08
