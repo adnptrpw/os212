@@ -79,4 +79,16 @@ If you want to understand more about linux processes and have every detail of it
 3. [(Article) Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
 It quites confusing to differentiate these two term. Thanks to this article, I have a clear understanding about those term. We can say, a process consist of threads. And that means thread is inside the process.
 4. [(Article) Multithreading vs Multiprocessing: What's the difference?](https://www.guru99.com/difference-between-multiprocessing-and-multithreading.html)<br>
-With this article, now I have a better understanding regarding another two terms that is pretty similar like in my links number 3. Multithreading is still inside a process and can run simultaneously, while multiprocessing has a bigger scope than multithreading.
+With this article, now I have a better understanding regarding another two terms that is pretty similar like in my links number 3. Multithreading is still inside a process and can run simultaneously, while multiprocessing has a bigger scope than multithreading
+
+## Week 07
+1. [(Article) Classical Problems of Synchronization](https://www.studytonight.com/operating-system/classical-synchronization-problems)<br>
+Well, it's a bit confusing reading and trying to understand about Synchronization from the book. So I tried to find a simple explanation about it on Google and this article gives me that. It breaks down various classical problem of synchronization in detail yet simple.
+2. [(Article) How to create a simple thread in C](https://www.educative.io/edpresso/how-to-create-a-simple-thread-in-c)<br>
+Seeing sample code in the demo's file, it felt kinda easy to make a thread. But in reality, it's completly wrong. There are so many errors that I found when try to create it. And this article helps me solve that errors.
+3. [(Article) Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+I cannot understand the explanation on the books, so I search another materials on Google to help me understand that. This article summarizes every important points that we need to know to avoid deadlock. Eventhoug, it's still hard to understand but at least after I read this my understanding about deadlock became better.
+4. [(Article) Difference between Mutex and Semaphore in Operating System](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system)<br>
+I could say this article also the summarize of the materials on the book. The article written in simple way, so it's fun to read. And this article helps me confirm my understanding about mutex and semaphore.
+5. [(Video) Mutex Synchronization in Linux with Pthreads](https://www.youtube.com/watch?v=GXXE42bkqQk)<br>
+This video is a demo how to use mutex using pthread.h. It helps me understand mutexes even better because the video will show you from the naive solution to proper solution. And not to mention, it explains to you each step's pros and cons.
