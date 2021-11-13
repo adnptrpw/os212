@@ -92,3 +92,17 @@ I cannot understand the explanation on the books, so I search another materials 
 I could say this article also the summarize of the materials on the book. The article written in simple way, so it's fun to read. And this article helps me confirm my understanding about mutex and semaphore.
 5. [(Video) Mutex Synchronization in Linux with Pthreads](https://www.youtube.com/watch?v=GXXE42bkqQk)<br>
 This video is a demo how to use mutex using pthread.h. It helps me understand mutexes even better because the video will show you from the naive solution to proper solution. And not to mention, it explains to you each step's pros and cons.
+
+## Week 08
+1. [(Article) Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+This article explains to me about the basic concept of multiprocessor scheduling and also explains how there is no best solution for multiprocessor scheduling. It explains the topic to every details of it.
+2. [(Article) Bored? How about trying a Linux speed run?](https://rachelbythebay.com/w/2020/04/11/pengrun/)<br>
+We know that most of the time, we just speed running our assignments. And look I found an interesting article about our beloved strategy. So far there is only one entry that took 4 hours to complete.
+3. [(Forum) Is it possible to monitor how a process is schheduled real-time with Linux?](https://stackoverflow.com/questions/42553987/is-it-possible-to-monitor-how-a-process-is-scheduled-real-time-with-linux/42571692#42571692)<br>
+Surprisingly, the answer of the question is YES! We can see our task being scheduled in a CPU core. We can achieve this by using Kernel Event Tracers on Linux such as pref-sched and trace-cmd.
+4. [(Article) CFS: Completely fair process scheduling in Linux](https://opensource.com/article/19/2/fair-scheduling-linux)<br>
+Wow, there are so many algorithm that we can use to schedule in Linux. And that scheduler called CFS. This article will show you the general overview of that thing.
+5. [(Video) Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)<br>
+This YouTube video explains to you so well about CPU scheduling. What I can conclude is CPU scheduling is away to manage so CPU can be used to the maximum level.
+6. [(Article) CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+As we all know, geeksforgeeks is the best website to know more about things in tech worls. Within this article, they summarize about CPU scheduling material. There is also the explanation of the algorithm that used for scheduling.

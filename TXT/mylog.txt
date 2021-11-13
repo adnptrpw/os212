@@ -110,3 +110,15 @@ ZCZC W07 30 L16 Assignments #06
 ZCZC W07 20 L17 Assignments #07
 ZCZC W07 10 L18 Assignments #08
 ZCZC W07 05 L19 Assignments #09
+ZCZC W08 20 L22 Quiz
+ZCZC W08 100 L02 ZOOM Meetings related
+ZCZC W07 60 L11 Assignments #01
+ZCZC W07 60 L12 Assignments #02
+ZCZC W07 60 L13 Assignments #03
+ZCZC W07 120 L14 Assignments #04
+ZCZC W07 240 L15 Assignments #05
+ZCZC W07 30 L16 Assignments #06
+ZCZC W07 05 L17 Assignments #07
+ZCZC W07 10 L18 Assignments #08
+ZCZC W07 05 L19 Assignments #09
+ZCZC W07 15 L20 Assignments #10
