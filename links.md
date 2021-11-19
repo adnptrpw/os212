@@ -106,3 +106,15 @@ Wow, there are so many algorithm that we can use to schedule in Linux. And that 
 This YouTube video explains to you so well about CPU scheduling. What I can conclude is CPU scheduling is away to manage so CPU can be used to the maximum level.
 6. [(Article) CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 As we all know, geeksforgeeks is the best website to know more about things in tech worls. Within this article, they summarize about CPU scheduling material. There is also the explanation of the algorithm that used for scheduling.
+
+## Week 09
+1. [(Article) What Is UEFI, and How Is It Different from BIOS?](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/)<br>
+Within this article, I got to know that UEFI can replace BIOS or become the "new" BIOS in the future because there are a lot of benefits.
+2. [(Article) UEFI vs BIOS: What's the Difference?](https://www.freecodecamp.org/news/uefi-vs-bios/)<br>
+UEFI has a lot of benefits, e.g the boot-time is a lot faster and also can suppor bigger drive size. And this improvement, even if it's small, it gives a big impact in tech world.
+3. [(Article) What is systemd](https://www.linode.com/docs/guides/what-is-systemd/)<br>
+I can conclude systemed is a part where it turns on all of the service when computer is on.
+4. [(Article) 4 Best Linux Boot Loaders](https://www.tecmint.com/best-linux-boot-loaders/)<br>
+Besides GRUB, there are several other types of loades that might be an alternative. This article gives us options when to choose a Linux boot loaders.
+5. [(Forum) Is GRUB the best bootloading solution? Is there an easier alternative?](https://unix.stackexchange.com/questions/146784/is-grub-the-best-bootloading-solution-is-there-an-easier-alternative)<br>
+Well, I just curious when learning about this bootloading in linux. And yeah this forum answer my curiousity. What I can conclude is that it depends of the preferences.
