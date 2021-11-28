@@ -118,3 +118,13 @@ I can conclude systemed is a part where it turns on all of the service when comp
 Besides GRUB, there are several other types of loades that might be an alternative. This article gives us options when to choose a Linux boot loaders.
 5. [(Forum) Is GRUB the best bootloading solution? Is there an easier alternative?](https://unix.stackexchange.com/questions/146784/is-grub-the-best-bootloading-solution-is-there-an-easier-alternative)<br>
 Well, I just curious when learning about this bootloading in linux. And yeah this forum answer my curiousity. What I can conclude is that it depends of the preferences.
+
+## Week 10
+1.[(Video) Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)<br>
+I always watch Neso Academy when I got stuck on Digital System or Organizational Computer Courses. And it is the same with Operating System Course, Neso Academy helps me a lot. This video explains really well about I/O Structure in a comprehensive manner.
+2.[(Article) Difference between Latency and Jitter in OS](https://www.geeksforgeeks.org/difference-between-latency-and-jitter-in-os/)<br>
+When I read about the latency material I often confused about its terms. I always understand it as a delay, but I think delay is not enough to explain it. Then when I found out this article, I have a better understanding about latency and also found about jitter which really helps to understand our material this week.
+3. [(Article) Principle of I/O Hardware](https://gcallah.github.io/OperatingSystems/IOHardware.html)<br>
+I am amaze when I found this article. Since I am a visual learning, I loves it when a study materials have some picture/image/graph or anything that visualize the materials itself. This article helps me alot to understanding I/O hardware better.
+4. [(Article) Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)<br>
+Another article about I/O hardware. While the previous article have some visual on it, this article also still have some visual but not as many as the previous article. Despite that, what make it recomended to read is the explanation is so easy to understand.
